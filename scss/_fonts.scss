@@ -6,14 +6,21 @@
 
 @font-face {
   font-family: AnisetteL;
-  src: url(../fonts/Anisette/Anisette-Light.otf);
+  src: url(../fonts/Anisette/anisette-petite.ttf);
     
 }
 
 @font-face {
   font-family: AnisetteB;
-  src: url(../fonts/Anisette/Anisette-Bold.otf);
+  src: url(../fonts/Anisette/anisette-petite-bold.ttf);
     
 }
+@font-face {
+  font-family: AnisetteR;
+  src: url(../fonts/Anisette/anisette-regular.ttf);
+    
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap');
