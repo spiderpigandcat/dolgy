@@ -2,3 +2,18 @@
 
 @include font-face("roboto-example", "../fonts/RobotoRegular/RobotoRegular");
 @include font-face("roboto-example", "../fonts/RobotoBold/RobotoBold", bold);
+ 
+
+@font-face {
+  font-family: AnisetteL;
+  src: url(../fonts/Anisette/Anisette-Light.otf);
+    
+}
+
+@font-face {
+  font-family: AnisetteB;
+  src: url(../fonts/Anisette/Anisette-Bold.otf);
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap');
